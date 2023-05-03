@@ -1,4 +1,4 @@
-# Alura Cast
+# Alura Spa
 
 Desenvolvimento de uma aplicação frontend com HTML/CSS/Sass. Tendo como principal objetivo simplificar a maneira de escrever com sass através do css.
 
