@@ -1,41 +1,62 @@
 # Alura Spa
 
-Desenvolvimento de uma aplicação frontend com HTML/CSS/Sass. Tendo como principal objetivo simplificar a maneira de escrever com sass através do css.
+## Sobre:
+
+O repositório "Alura Spa" contém um projeto web desenvolvido utilizando a linguagem de estilos Sass/SCSS. Este projeto foi criado com o objetivo de reproduzir uma página de um spa, com diversos elementos de design e interação com o usuário.
+
+O projeto é composto por diversas páginas HTML que utilizam o Sass/SCSS para estilização e organização do conteúdo, de forma responsiva e adaptável a diferentes dispositivos. O Sass/SCSS foi a linguagem utilizada para a criação dos estilos, proporcionando uma organização mais eficiente do código e uma facilidade na manutenção do projeto.
+
+## Layout:
 
 ![](imagens/alura-spa.gif)
 
-## Funcionalidades
+## Como executar o projeto?
 
-- Navegação (Menu).
-- Serviços.
-- Formulário.
-- Curiosidades.
-- Rodapé.  
-
-## Como utilizar
+Os passos para acessar o projeto são bem simples, mas seguem a seguinte ordem:
 
 ```bash
 # Terminal
 
-git clone https://github.com/MateusMaciel340/alura-spa # clone do repositório
+git clone https://github.com/MateusMaciel340/alura-spa
 
-cd aluracast/ # acessando pasta
+cd alura-spa/
 
-# acessar Live Server com index.html
 ```
 
-## Contribuição
+## Tecnologias
 
-Contribuições são bem-vindas! Se você quiser contribuir com este projeto, por favor, abra uma issue para discutir suas ideias ou envie um pull request com suas alterações.
+As seguintes ferramentas foram utilizadas na construção do projeto:
 
-**Desenvolvedor:** Mateus Maciel - @mateusdev340
-
-## Tecnologias:
+### Frontend
 
 - HTML
 - CSS
-- SASS
-- SCSS
+- Flexbox e Grid
+- Sass
+
+## Contribuidores
+
+<table>
+    <thead>
+        <tr>
+            <td>
+                <img src="https://avatars.githubusercontent.com/u/55550732?v=4" width="150px"/>
+            </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Mateus Maciel</th>
+        </tr>
+    </tbody>
+</table>
+
+## Como contribuir?
+
+1. Faça um fork do projeto.
+2. Crie uma nova ramificação com suas alterações: `git checkout -b minha-feature`
+3. Salve as alterações e crie uma mensagem de confirmação contando o que você fez: `git commit -m "arquivo modificado"`
+4. Envie suas alterações: `git push origin minha-feature`
 
 ## Licença
 
